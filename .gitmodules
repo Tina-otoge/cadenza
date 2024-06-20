@@ -1,0 +1,3 @@
+[submodule "lib/bemaniutils"]
+	path = lib/bemaniutils
+	url = https://github.com/DragonMinded/bemaniutils.git

@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+
+# bemaniutils
+Flask
+Flask-Caching
+iced-x86
+pefile
+python-dateutil
+pycryptodome
